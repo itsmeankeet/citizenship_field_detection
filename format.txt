@@ -1,0 +1,18 @@
+dob = db_year/db_month/db_day
+
+birth_place = dp_metropolitan - db_wardno, db_district
+
+permanent_address = pa_metropolitan - pa_wardno, pa_district
+
+issued_date = issued issued_date
+
+citizenship_no = citizenship_no
+
+full_name = full_name
+
+citizenship_king = bamsha
+
+sex = sex
+
+
+
